@@ -1,7 +1,6 @@
-body, html{
-    height: 100vh;
-    background: rgb(0, 255, 242);
-    text-align: center;
-
-   
+body,
+html {
+  height: 100vh;
+  background: rgb(0, 255, 242);
+  text-align: center;
 }
